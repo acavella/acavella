@@ -3,7 +3,7 @@
 
 I'm a System Engineer and love everything tech!
 
-![Red Hat](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=redhat)
+![Red Hat](https://img.shields.io/badge/-Red Hat-#EE0000?logo=redhat)
 
 ✨ Crafted last Laracon Online website;
 🇵🇹 Planing the "Tuga-Co-Op";
