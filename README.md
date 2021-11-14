@@ -1,4 +1,8 @@
-Hi there 👋
+![Header Image](assets/header_log.png)
+
+
+
+
 I'm a Full-Stack Developer working in Lisbon, Portugal.
 NOW
 ✨ Crafted last Laracon Online website;
