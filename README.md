@@ -1,17 +1,14 @@
 ![Header Image](https://github.com/acavella/acavella/blob/master/assets/header.png)
-
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?logo=redhat)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi)
+![Go Lang](https://img.shields.io/badge/-Go-00ADD8?logo=go)
+![sqllite](https://img.shields.io/badge/-sqlite-003B57?logo=sqlite)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker)
 
 I'm a System Engineer and love everything tech!
-
-![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?logo=redhat&style=for-the-badge)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&style=for-the-badge)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&style=for-the-badge)
-![Go Lang](https://img.shields.io/badge/-Go-00ADD8?logo=go&style=for-the-badge)
-![sqllite](https://img.shields.io/badge/-sqlite-003B57?logo=sqlite&style=for-the-badge)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=for-the-badge)
-
 
 
 ✨ Crafted last Laracon Online website;
