@@ -1,10 +1,8 @@
 ![Header Image](https://github.com/acavella/acavella/blob/master/assets/header_logo.png)
 
 
+I'm a System Engineer and love everything tech!
 
-
-I'm a Full-Stack Developer working in Lisbon, Portugal.
-NOW
 ✨ Crafted last Laracon Online website;
 🇵🇹 Planing the "Tuga-Co-Op";
 🍑 What about this?
