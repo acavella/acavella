@@ -3,7 +3,12 @@
 
 I'm a System Engineer and love everything tech!
 
-![Red Hat](https://img.shields.io/badge/-Red Hat-#EE0000?logo=redhat)
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-#EE0000?logo=redhat&style=for-the-badge)
+![Debian](https://img.shields.io/badge/-Debian-#A81D33?logo=debian&style=for-the-badge)
+![Bash](https://img.shields.io/badge/-Bash-#4EAA25?logo=gnubash&style=for-the-badge)
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-#EE0000?logo=redhat&style=for-the-badge)
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-#EE0000?logo=redhat&style=for-the-badge)
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-#EE0000?logo=redhat&style=for-the-badge)
 
 ✨ Crafted last Laracon Online website;
 🇵🇹 Planing the "Tuga-Co-Op";
