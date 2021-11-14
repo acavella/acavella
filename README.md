@@ -8,6 +8,7 @@ I'm a System Engineer and love everything tech!
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&style=for-the-badge)
 ![Go Lang](https://img.shields.io/badge/-Go-00ADD8?logo=go&style=for-the-badge)
+![sqllite](https://img.shields.io/badge/-sqlite-003B57?logo=sqlite&style=for-the-badge)
 
 
 
