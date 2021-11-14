@@ -1,4 +1,4 @@
-![Header Image](https://github.com/acavella/acavella/blob/master/assets/header_logo.png)
+![Header Image](https://github.com/acavella/acavella/blob/master/assets/header.png)
 
 
 I'm a System Engineer and love everything tech!
