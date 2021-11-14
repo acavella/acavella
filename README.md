@@ -7,7 +7,7 @@ I'm a System Engineer and love everything tech!
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi)
-![Go Lang](https://img.shields.io/badge/-Go-00ADD8?logo=go)
+![Go Lang](https://img.shields.io/badge/-Go-00ADD8?logo=go&style=for-the-badge)
 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/redhat.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/debian.svg" />
