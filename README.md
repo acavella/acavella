@@ -1,4 +1,4 @@
-![Header Image](assets/header_log.png)
+![Header Image](https://github.com/acavella/acavella/blob/master/assets/header_logo.png)
 
 
 
