@@ -10,7 +10,7 @@ I'm a System Engineer and love everything tech!
 ![Go Lang](https://img.shields.io/badge/-Go-00ADD8?logo=go&style=for-the-badge)
 ![sqllite](https://img.shields.io/badge/-sqlite-003B57?logo=sqlite&style=for-the-badge)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=for-the-badge)
 
 
 
