@@ -3,9 +3,9 @@
 
 I'm a System Engineer and love everything tech!
 
-![Red Hat](https://img.shields.io/badge/-Red%20Hat-#EE0000?logo=redhat&style=for-the-badge)
-![Debian](https://img.shields.io/badge/-Debian-#A81D33?logo=debian&style=for-the-badge)
-![Bash](https://img.shields.io/badge/-Bash-#4EAA25?logo=gnubash&style=for-the-badge)
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-#EE0000?logo=redha)
+![Debian](https://img.shields.io/badge/-Debian-#A81D33?logo=debian)
+![Bash](https://img.shields.io/badge/-Bash-#4EAA25?logo=gnubash)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-#EE0000?logo=redhat&style=for-the-badge)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-#EE0000?logo=redhat&style=for-the-badge)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-#EE0000?logo=redhat&style=for-the-badge)
