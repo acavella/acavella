@@ -7,12 +7,12 @@ I'm a System Engineer and love everything tech!
 ### Technology Stack
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?logo=redhat&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)\
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&logoColor=white)
 ![Go Lang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![sqllite](https://img.shields.io/badge/-sqlite-003B57?logo=sqlite&logoColor=white)\
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
-![sqllite](https://img.shields.io/badge/-sqlite-003B57?logo=sqlite&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
 
