@@ -3,7 +3,7 @@
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-41454A?logo=redhat)
 ![Debian](https://img.shields.io/badge/-Debian-41454A?logo=debian)
 ![Windows](https://img.shields.io/badge/-Windows-41454A?logo=windows)
-![Bash](https://img.shields.io/badge/-Bash-41454A?logo=gnubash?logoColor=violet)
+![Bash](https://img.shields.io/badge/-Bash-41454A?logo=gnubash&logoColor=violet)
 ![Powershell](https://img.shields.io/badge/-Powershell-41454A?logo=powershell)
 ![Go Lang](https://img.shields.io/badge/-Go-41454A?logo=go)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-41454A?logo=raspberrypi)
