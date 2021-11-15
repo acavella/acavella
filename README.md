@@ -19,8 +19,10 @@ I'm a System Engineer and love everything tech!
 
 ### Social
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavella/)\
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&logoColor=white)](https://www.reddit.com/user/acavella)\
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://www.linkedin.com/in/cavella/)\
 ![GitHub followers](https://img.shields.io/github/followers/acavella?style=social)
+
 
 <!--
 **acavella/acavella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
