@@ -1,5 +1,5 @@
 ![Header Image](https://github.com/acavella/acavella/blob/master/assets/header.png)
-![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?logo=redhat)
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-000000?logo=redhat)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi)
