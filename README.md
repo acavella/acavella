@@ -1,6 +1,4 @@
 ![Header Image](https://github.com/acavella/acavella/blob/master/assets/header.png)
-![GitHub followers](https://img.shields.io/github/followers/acavella?style=social)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavella/)
 
 I'm a System Engineer and love everything tech!
 
@@ -19,7 +17,10 @@ I'm a System Engineer and love everything tech!
 ![Raspberry PI](https://img.shields.io/badge/Stack-Raspberry%20PI-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
 ![DigitalOcean](https://img.shields.io/badge/Stack-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=2bbc8a)
 
-
+### Social
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavella/)\
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://www.linkedin.com/in/cavella/)\
+![GitHub followers](https://img.shields.io/github/followers/acavella?style=social)
 
 <!--
 **acavella/acavella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
