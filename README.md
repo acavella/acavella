@@ -1,12 +1,12 @@
 ![Header Image](https://github.com/acavella/acavella/blob/master/assets/header.png)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-41454A?logo=redhat)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi)
-![Go Lang](https://img.shields.io/badge/-Go-00ADD8?logo=go)
-![sqllite](https://img.shields.io/badge/-sqlite-003B57?logo=sqlite)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker)
+![Debian](https://img.shields.io/badge/-Debian-41454A?logo=debian)
+![Bash](https://img.shields.io/badge/-Bash-41454A?logo=gnubash)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-41454A?logo=raspberrypi)
+![Go Lang](https://img.shields.io/badge/-Go-41454A?logo=go)
+![sqllite](https://img.shields.io/badge/-sqlite-41454A?logo=sqlite)
+![Ansible](https://img.shields.io/badge/-Ansible-41454A?logo=ansible)
+![Docker](https://img.shields.io/badge/-Docker-41454A?logo=Docker)
 
 I'm a System Engineer and love everything tech!
 
