@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
-
 ![Header Image](https://github.com/acavella/acavella/blob/master/assets/header.png)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-41454A?logo=redhat)
 ![Debian](https://img.shields.io/badge/-Debian-41454A?logo=debian)
@@ -15,8 +12,13 @@
 
 I'm a System Engineer and love everything tech!
 
-✨ More comming soon;
-<i class="devicon-bash-plain"></i>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 <!--
 **acavella/acavella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
