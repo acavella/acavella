@@ -5,6 +5,7 @@
 I'm a System Engineer and love everything tech!
 
 ### Technology Stack
+![Test](https://img.shields.io/badge/OS-Red Hat-informational?style=flat&logo=redhat&logoColor=white&color=2bbc8a)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?logo=redhat&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)\
