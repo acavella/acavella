@@ -1,8 +1,10 @@
 ![Header Image](https://github.com/acavella/acavella/blob/master/assets/header.png)
+![GitHub followers](https://img.shields.io/github/followers/acavella?style=social)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavella/)
 
 I'm a System Engineer and love everything tech!
 
-### Technology Stack</h2>
+### Technology Stack
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?logo=redhat&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
