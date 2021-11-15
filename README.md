@@ -1,25 +1,19 @@
 ![Header Image](https://github.com/acavella/acavella/blob/master/assets/header.png)
 
-![Red Hat](https://img.shields.io/badge/-Red%20Hat-41454A?logo=redhat)
-![Debian](https://img.shields.io/badge/-Debian-41454A?logo=debian)
-![Windows](https://img.shields.io/badge/-Windows-41454A?logo=windows)
-![Bash](https://img.shields.io/badge/-Bash-41454A?logo=gnubash&logoColor=white)
-![Powershell](https://img.shields.io/badge/-Powershell-41454A?logo=powershell)
-![Go Lang](https://img.shields.io/badge/-Go-41454A?logo=go)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-41454A?logo=raspberrypi)
-![sqllite](https://img.shields.io/badge/-sqlite-41454A?logo=sqlite)
-![Ansible](https://img.shields.io/badge/-Ansible-41454A?logo=ansible)
-![Docker](https://img.shields.io/badge/-Docker-41454A?logo=Docker)
-
 I'm a System Engineer and love everything tech!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+### Technology Stack</h2>
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?logo=redhat&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&logoColor=white)
+![Go Lang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
+![sqllite](https://img.shields.io/badge/-sqlite-003B57?logo=sqlite&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
+
 
 <!--
 **acavella/acavella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
