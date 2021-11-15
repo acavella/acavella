@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
+
 ![Header Image](https://github.com/acavella/acavella/blob/master/assets/header.png)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-41454A?logo=redhat)
 ![Debian](https://img.shields.io/badge/-Debian-41454A?logo=debian)
@@ -13,7 +16,7 @@
 I'm a System Engineer and love everything tech!
 
 ✨ More comming soon;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<i class="devicon-bash-plain"></i>
 
 <!--
 **acavella/acavella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
