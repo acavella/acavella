@@ -1,5 +1,11 @@
 ![Header Image](https://github.com/acavella/acavella/blob/master/assets/header.png)
 
+Hey there :wave:
+
+I'm Tony, a senior infrastructure and security engineer. I love everything that is tech and am on a mission to constantly learn new things.  I specialize in PKI/PKE, Linux, Mobility, virtualization, containers and automation. 
+
+Want to know more or reach out? 
+
 ### Social
 [![Repos Badge](https://badges.pufler.dev/repos/acavella)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/acavella)](https://badges.pufler.dev)
