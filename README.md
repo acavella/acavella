@@ -28,25 +28,14 @@ Want to know more or reach out?
 ![Raspberry PI](https://img.shields.io/badge/Stack-Raspberry%20PI-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
 ![DigitalOcean](https://img.shields.io/badge/Stack-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=2bbc8a)
 
-### 📢 Office Quote
-<p>{office_quote}</p>
+### 🗞️ Latest Feeds
+<!-- BLOG-POST-LIST:START -->
 
-<p>{office_character}</p>
+<!-- BLOG-POST-LIST:END --> 
+
+### 📢 Office Quote
+<p>Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.</p>
+
+<p>- Michael Scott</p>
 
 Check back at the top of the hour for a new quote!
-
-
-<!--
-**acavella/acavella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
