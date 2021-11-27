@@ -33,9 +33,8 @@ Want to know more or reach out?
 
 <!-- BLOG-POST-LIST:END --> 
 
-### 📢 Office Quote
-<p>{office_quote}</p>
+### 📢 Random Office Quote (Hourly)
+> {office_quote} \
+> {office_character}
 
-<p>{office_character}</p>
-
-Check back at the top of the hour for a new quote!
+*Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
