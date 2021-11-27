@@ -29,6 +29,9 @@ Want to know more or reach out?
 ![DigitalOcean](https://img.shields.io/badge/Stack-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=2bbc8a)
 
 ### 🗞️ Latest Feeds
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Office Quote
 <p>{office_quote}</p>
