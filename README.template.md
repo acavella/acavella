@@ -28,7 +28,7 @@ Want to know more or reach out?
 ![Raspberry PI](https://img.shields.io/badge/Stack-Raspberry%20PI-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
 ![DigitalOcean](https://img.shields.io/badge/Stack-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=2bbc8a)
 
-### 🗞️ Latest Feeds
+### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END --> 
