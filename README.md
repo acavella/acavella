@@ -1,4 +1,4 @@
-![Header Image](https://github.com/acavella/acavella/blob/master/assets/header.png)
+![Header Image](./assets/header2.png)
 
 Hey there :wave:
 
