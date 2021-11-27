@@ -30,7 +30,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Tell If Vintage Furniture Is the Real Deal or a Knockoff](https://lifehacker.com/how-to-tell-if-vintage-furniture-is-the-real-deal-or-a-1848124958)
+- [Use This Converter to Calculate the Height of Mt. Everest &lpar;or Anything Else&rpar; in Danny DeVitos](https://lifehacker.com/use-this-converter-to-calculate-the-height-of-mt-evere-1848124951)
+- [How to Decorate a Room With Christmas Greenery Without a Whole Tree](https://lifehacker.com/how-to-decorate-a-room-with-christmas-greenery-without-1848122659)
+- [The Difference Between Hard Water and Soft Water &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-hard-water-and-soft-water-and-w-1848122651)
+- [How to Spot Fake Brand-Name Tools Sold Online](https://lifehacker.com/how-to-spot-fake-brand-name-tools-sold-online-1848122667)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Office Quote
