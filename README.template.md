@@ -34,7 +34,7 @@ Want to know more or reach out?
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> {office_quote} \
-> {office_character}
+> <p>{office_quote}</p>
+> <p>{office_character}</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
