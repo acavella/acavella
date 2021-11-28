@@ -30,15 +30,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [How to Wash Holiday Stockings and Other Fabric Decorations](https://lifehacker.com/how-to-wash-holiday-stockings-and-other-fabric-decorati-1848124966)
-- [How to Tell If Vintage Furniture Is the Real Deal or a Knockoff](https://lifehacker.com/how-to-tell-if-vintage-furniture-is-the-real-deal-or-a-1848124958)
-- [Use This Converter to Calculate the Height of Mt. Everest &lpar;or Anything Else&rpar; in Danny DeVitos](https://lifehacker.com/use-this-converter-to-calculate-the-height-of-mt-evere-1848124951)
-- [How to Decorate a Room With Christmas Greenery Without a Whole Tree](https://lifehacker.com/how-to-decorate-a-room-with-christmas-greenery-without-1848122659)
-- [The Difference Between Hard Water and Soft Water &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-hard-water-and-soft-water-and-w-1848122651)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</p>
-> <p>- Oscar Martinez</p>
+> <p>Did I stutter?</p>
+> <p>- Stanley Hudson</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
