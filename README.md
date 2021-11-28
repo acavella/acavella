@@ -33,7 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Tell Exactly How Many Christmas Lights You Need](https://lifehacker.com/how-to-tell-exactly-how-many-christmas-lights-you-need-1848126999)
+- [Get Paid $1,234 to Watch 5 of Your Favorite Childhood Movies](https://lifehacker.com/get-paid-1-234-to-watch-5-of-your-favorite-childhood-m-1848126998)
+- [How to Prep Your Garage for Winter](https://lifehacker.com/how-to-prep-your-garage-for-winter-1848126993)
+- [How to Wash Holiday Stockings and Other Fabric Decorations](https://lifehacker.com/how-to-wash-holiday-stockings-and-other-fabric-decorati-1848124966)
+- [How to Tell If Vintage Furniture Is the Real Deal or a Knockoff](https://lifehacker.com/how-to-tell-if-vintage-furniture-is-the-real-deal-or-a-1848124958)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
