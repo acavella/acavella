@@ -6,9 +6,12 @@ I'm Tony, a senior infrastructure and security engineer. I love everything that 
 
 Want to know more or reach out? 
 
-### 🗨️ Social
+### ℹ️ Git Stats
 [![Repos Badge](https://badges.pufler.dev/repos/acavella)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/acavella)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/acavella)](https://badges.pufler.dev)
+
+### 🗨️ Social
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavella/)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&logoColor=white)](https://www.reddit.com/user/acavella)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/s0lution_)
@@ -30,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [Get Paid $1,234 to Watch 5 of Your Favorite Childhood Movies](https://lifehacker.com/get-paid-1-234-to-watch-5-of-your-favorite-childhood-m-1848126998)
-- [How to Prep Your Garage for Winter](https://lifehacker.com/how-to-prep-your-garage-for-winter-1848126993)
-- [How to Wash Holiday Stockings and Other Fabric Decorations](https://lifehacker.com/how-to-wash-holiday-stockings-and-other-fabric-decorati-1848124966)
-- [How to Tell If Vintage Furniture Is the Real Deal or a Knockoff](https://lifehacker.com/how-to-tell-if-vintage-furniture-is-the-real-deal-or-a-1848124958)
-- [Use This Converter to Calculate the Height of Mt. Everest &lpar;or Anything Else&rpar; in Danny DeVitos](https://lifehacker.com/use-this-converter-to-calculate-the-height-of-mt-evere-1848124951)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</p>
-> <p>- Andy Bernard</p>
+> <p>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
