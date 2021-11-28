@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [How to Tell Exactly How Many Christmas Lights You Need](https://lifehacker.com/how-to-tell-exactly-how-many-christmas-lights-you-need-1848126999)
-- [Get Paid $1,234 to Watch 5 of Your Favorite Childhood Movies](https://lifehacker.com/get-paid-1-234-to-watch-5-of-your-favorite-childhood-m-1848126998)
-- [How to Prep Your Garage for Winter](https://lifehacker.com/how-to-prep-your-garage-for-winter-1848126993)
-- [How to Wash Holiday Stockings and Other Fabric Decorations](https://lifehacker.com/how-to-wash-holiday-stockings-and-other-fabric-decorati-1848124966)
-- [How to Tell If Vintage Furniture Is the Real Deal or a Knockoff](https://lifehacker.com/how-to-tell-if-vintage-furniture-is-the-real-deal-or-a-1848124958)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.</p>
-> <p>- Dwight Schrute</p>
+> <p>Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.</p>
+> <p>- Toby Flenderson</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
