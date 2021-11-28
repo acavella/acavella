@@ -9,6 +9,8 @@ Want to know more or reach out?
 ### 🗨️ Social
 [![Repos Badge](https://badges.pufler.dev/repos/acavella)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/acavella)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/acavella)](https://badges.pufler.dev)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavella/)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&logoColor=white)](https://www.reddit.com/user/acavella)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/s0lution_)
