@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [Stop Killing Houseplants &lpar;Create a Self-Sustaining Ecosphere Instead&rpar;](https://lifehacker.com/stop-killing-houseplants-create-a-self-sustaining-ecos-1848018886)
-- [Why &#39;Tubular Skylights&#39; Are Great for Brightening Up Your Home](https://lifehacker.com/why-tubular-skylights-are-great-for-brightening-up-your-1848031312)
-- [Don&#39;t Overthink Your Latkes](https://lifehacker.com/dont-overthink-your-latkes-1848119681)
-- [How to Tell Exactly How Many Christmas Lights You Need](https://lifehacker.com/how-to-tell-exactly-how-many-christmas-lights-you-need-1848126999)
-- [Get Paid $1,234 to Watch 5 of Your Favorite Childhood Movies](https://lifehacker.com/get-paid-1-234-to-watch-5-of-your-favorite-childhood-m-1848126998)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Shut up about the sun. SHUT UP ABOUT THE SUN!</p>
-> <p>- Gabe Lewis</p>
+> <p>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</p>
+> <p>- Andy Bernard</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
