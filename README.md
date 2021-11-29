@@ -33,7 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [The Right Way to Install a Simple Floating Shelf](https://lifehacker.com/the-right-way-to-install-a-simple-floating-shelf-1848129875)
+- [The Best Ways to Give Money Without Giving Cash](https://lifehacker.com/the-best-ways-to-give-money-without-giving-cash-1848124581)
+- [What to Do Before You Have Surgery](https://lifehacker.com/what-to-do-before-you-have-surgery-1848100632)
+- [18 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar;](https://lifehacker.com/18-of-the-best-non-christmas-christmas-movies-that-are-1848104777)
+- [Stop Killing Houseplants &lpar;Create a Self-Sustaining Ecosphere Instead&rpar;](https://lifehacker.com/stop-killing-houseplants-create-a-self-sustaining-ecos-1848018886)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
