@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Overthink Your Latkes](https://lifehacker.com/dont-overthink-your-latkes-1848119681)
-- [How to Tell Exactly How Many Christmas Lights You Need](https://lifehacker.com/how-to-tell-exactly-how-many-christmas-lights-you-need-1848126999)
-- [Get Paid $1,234 to Watch 5 of Your Favorite Childhood Movies](https://lifehacker.com/get-paid-1-234-to-watch-5-of-your-favorite-childhood-m-1848126998)
-- [How to Prep Your Garage for Winter](https://lifehacker.com/how-to-prep-your-garage-for-winter-1848126993)
-- [How to Wash Holiday Stockings and Other Fabric Decorations](https://lifehacker.com/how-to-wash-holiday-stockings-and-other-fabric-decorati-1848124966)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</p>
-> <p>- Pam Beesly</p>
+> <p>Everybody stay calm! Stay f*&#!#% calm!</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
