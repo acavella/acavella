@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [You Can Use Your Apple Watch to Automatically Unlock Your Mac](https://lifehacker.com/you-can-use-your-apple-watch-to-automatically-unlock-yo-1848128398)
-- [Your Pixel Will Now Wait Until Everyone Is Smiling Before Snapping a Picture](https://lifehacker.com/your-pixel-will-now-wait-until-everyone-is-smiling-befo-1848131573)
-- [You Should Start This Ornament Tradition With Your Kids](https://lifehacker.com/why-you-should-start-this-ornament-tradition-with-your-1848131382)
-- [The Best Winter Running Gear, According to Reddit](https://lifehacker.com/the-best-winter-running-gear-according-to-reddit-1848119170)
-- [16 of the Most Useful iPhone Messages Features You Should Be Using](https://lifehacker.com/16-of-the-most-useful-iphone-messages-features-you-shou-1848130284)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</p>
-> <p>- Pam Beesly</p>
+> <p>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
