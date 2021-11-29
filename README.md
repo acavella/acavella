@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [Stop LinkedIn From Clogging Up Your Inbox Already](https://lifehacker.com/stop-linkedin-from-clogging-up-your-inbox-already-1848130851)
-- [The Lazy Way to Stuff a Stocking That Doesn’t Look Lazy](https://lifehacker.com/the-lazy-way-to-stuff-a-stocking-that-doesn-t-look-lazy-1848132358)
-- [You Can Use Your Apple Watch to Automatically Unlock Your Mac](https://lifehacker.com/you-can-use-your-apple-watch-to-automatically-unlock-yo-1848128398)
-- [Your Pixel Will Now Wait Until Everyone Is Smiling Before Snapping a Picture](https://lifehacker.com/your-pixel-will-now-wait-until-everyone-is-smiling-befo-1848131573)
-- [You Should Start This Ornament Tradition With Your Kids](https://lifehacker.com/why-you-should-start-this-ornament-tradition-with-your-1848131382)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</p>
-> <p>- Michael Scott</p>
+> <p>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</p>
+> <p>- Oscar Martinez</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
