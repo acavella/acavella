@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Overthink Your Latkes](https://lifehacker.com/dont-overthink-your-latkes-1848119681)
-- [How to Tell Exactly How Many Christmas Lights You Need](https://lifehacker.com/how-to-tell-exactly-how-many-christmas-lights-you-need-1848126999)
-- [Get Paid $1,234 to Watch 5 of Your Favorite Childhood Movies](https://lifehacker.com/get-paid-1-234-to-watch-5-of-your-favorite-childhood-m-1848126998)
-- [How to Prep Your Garage for Winter](https://lifehacker.com/how-to-prep-your-garage-for-winter-1848126993)
-- [How to Wash Holiday Stockings and Other Fabric Decorations](https://lifehacker.com/how-to-wash-holiday-stockings-and-other-fabric-decorati-1848124966)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?</p>
-> <p>- Creed Bratton</p>
+> <p>I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.</p>
+> <p>- Jim Halpert</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
