@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [How to Install a Security Camera Without Breaking the Law](https://lifehacker.com/how-to-install-a-security-camera-without-breaking-the-l-1848006254)
-- [Stop LinkedIn From Clogging Up Your Inbox Already](https://lifehacker.com/stop-linkedin-from-clogging-up-your-inbox-already-1848130851)
-- [The Lazy Way to Stuff a Stocking That Doesn’t Look Lazy](https://lifehacker.com/the-lazy-way-to-stuff-a-stocking-that-doesn-t-look-lazy-1848132358)
-- [You Can Use Your Apple Watch to Automatically Unlock Your Mac](https://lifehacker.com/you-can-use-your-apple-watch-to-automatically-unlock-yo-1848128398)
-- [Your Pixel Will Now Wait Until Everyone Is Smiling Before Snapping a Picture](https://lifehacker.com/your-pixel-will-now-wait-until-everyone-is-smiling-befo-1848131573)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</p>
-> <p>- Oscar Martinez</p>
+> <p>It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.</p>
+> <p>- Pam Beesly</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
