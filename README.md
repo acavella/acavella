@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [You Should Start This Ornament Tradition With Your Kids](https://lifehacker.com/why-you-should-start-this-ornament-tradition-with-your-1848131382)
-- [The Best Winter Running Gear, According to Reddit](https://lifehacker.com/the-best-winter-running-gear-according-to-reddit-1848119170)
-- [16 of the Most Useful iPhone Messages Features You Should Be Using](https://lifehacker.com/16-of-the-most-useful-iphone-messages-features-you-shou-1848130284)
-- [Discover Your Perfect Pullup Variation](https://lifehacker.com/discover-your-perfect-pullup-variation-1848119449)
-- [The Right Way to Install a Simple Floating Shelf](https://lifehacker.com/the-right-way-to-install-a-simple-floating-shelf-1848129875)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Occasionally, I’ll hit somebody with my car. So sue me.</p>
-> <p>- Michael Scott</p>
+> <p>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</p>
+> <p>- Pam Beesly</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
