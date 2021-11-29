@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [The Right Way to Install a Simple Floating Shelf](https://lifehacker.com/the-right-way-to-install-a-simple-floating-shelf-1848129875)
-- [The Best Ways to Give Money Without Giving Cash](https://lifehacker.com/the-best-ways-to-give-money-without-giving-cash-1848124581)
-- [What to Do Before You Have Surgery](https://lifehacker.com/what-to-do-before-you-have-surgery-1848100632)
-- [18 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar;](https://lifehacker.com/18-of-the-best-non-christmas-christmas-movies-that-are-1848104777)
-- [Stop Killing Houseplants &lpar;Create a Self-Sustaining Ecosphere Instead&rpar;](https://lifehacker.com/stop-killing-houseplants-create-a-self-sustaining-ecos-1848018886)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I. Declare. Bankruptcy!</p>
-> <p>- Michael Scott</p>
+> <p>I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.</p>
+> <p>- Dwight Schrute</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
