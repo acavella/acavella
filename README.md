@@ -33,7 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [What to Do Before You Have Surgery](https://lifehacker.com/what-to-do-before-you-have-surgery-1848100632)
+- [18 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar;](https://lifehacker.com/18-of-the-best-non-christmas-christmas-movies-that-are-1848104777)
+- [Stop Killing Houseplants &lpar;Create a Self-Sustaining Ecosphere Instead&rpar;](https://lifehacker.com/stop-killing-houseplants-create-a-self-sustaining-ecos-1848018886)
+- [Why &#39;Tubular Skylights&#39; Are Great for Brightening Up Your Home](https://lifehacker.com/why-tubular-skylights-are-great-for-brightening-up-your-1848031312)
+- [Don&#39;t Overthink Your Latkes](https://lifehacker.com/dont-overthink-your-latkes-1848119681)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
