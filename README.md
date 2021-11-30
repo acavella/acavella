@@ -33,7 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [Maybe You Can Become a ‘Luckier’ Person](https://lifehacker.com/maybe-you-can-become-a-luckier-person-1848133716)
+- [How to Play Guitar Without Learning How to Play Guitar](https://lifehacker.com/how-to-play-guitar-without-learning-how-to-play-guitar-1848128835)
+- [16 of the Best Cozy Christmas Movies That Aren’t All White People in Sweaters](https://lifehacker.com/16-of-the-best-cozy-christmas-movies-that-aren-t-all-wh-1848103267)
+- [Brine Your Holiday Meats in Shio Koji](https://lifehacker.com/brine-your-holiday-meats-in-shio-koji-1848133750)
+- [What is &#39;Web3&#39; and Why Should You Care?](https://lifehacker.com/what-is-web3-and-why-should-you-care-1848133134)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
