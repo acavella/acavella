@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [What is &#39;Web3&#39; and Why Should You Care?](https://lifehacker.com/what-is-web3-and-why-should-you-care-1848133134)
-- [How to Survive the ‘Toddler Screaming’ Phase](https://lifehacker.com/how-to-survive-the-toddler-screaming-phase-1848132853)
-- [How to Install a Security Camera Without Breaking the Law](https://lifehacker.com/how-to-install-a-security-camera-without-breaking-the-l-1848006254)
-- [Stop LinkedIn From Clogging Up Your Inbox Already](https://lifehacker.com/stop-linkedin-from-clogging-up-your-inbox-already-1848130851)
-- [The Lazy Way to Stuff a Stocking That Doesn’t Look Lazy](https://lifehacker.com/the-lazy-way-to-stuff-a-stocking-that-doesn-t-look-lazy-1848132358)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Bears, Beets, Battlestar Galactica.</p>
-> <p>- Jim Halpert</p>
+> <p>In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.</p>
+> <p>- Darryl Philbin</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
