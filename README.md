@@ -33,7 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [16 of the Best Cozy Christmas Movies That Aren’t All White People in Sweaters](https://lifehacker.com/16-of-the-best-cozy-christmas-movies-that-aren-t-all-wh-1848103267)
+- [Brine Your Holiday Meats in Shio Koji](https://lifehacker.com/brine-your-holiday-meats-in-shio-koji-1848133750)
+- [What is &#39;Web3&#39; and Why Should You Care?](https://lifehacker.com/what-is-web3-and-why-should-you-care-1848133134)
+- [How to Survive the ‘Toddler Screaming’ Phase](https://lifehacker.com/how-to-survive-the-toddler-screaming-phase-1848132853)
+- [How to Install a Security Camera Without Breaking the Law](https://lifehacker.com/how-to-install-a-security-camera-without-breaking-the-l-1848006254)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
