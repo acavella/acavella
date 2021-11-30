@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [What is &#39;Web3&#39; and Why Should You Care?](https://lifehacker.com/what-is-web3-and-why-should-you-care-1848133134)
-- [How to Survive the ‘Toddler Screaming’ Phase](https://lifehacker.com/how-to-survive-the-toddler-screaming-phase-1848132853)
-- [How to Install a Security Camera Without Breaking the Law](https://lifehacker.com/how-to-install-a-security-camera-without-breaking-the-l-1848006254)
-- [Stop LinkedIn From Clogging Up Your Inbox Already](https://lifehacker.com/stop-linkedin-from-clogging-up-your-inbox-already-1848130851)
-- [The Lazy Way to Stuff a Stocking That Doesn’t Look Lazy](https://lifehacker.com/the-lazy-way-to-stuff-a-stocking-that-doesn-t-look-lazy-1848132358)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?</p>
-> <p>- Creed Bratton</p>
+> <p>I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.</p>
+> <p>- Stanley Hudson</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
