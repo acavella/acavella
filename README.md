@@ -33,7 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [8 Privacy Settings You Should Change on LinkedIn Right Now](https://lifehacker.com/8-privacy-settings-you-should-change-on-linkedin-right-1848142007)
+- [15 Potent Gifts for the Weed Enthusiast in Your Life](https://lifehacker.com/15-potent-gifts-for-the-weed-enthusiast-in-your-life-1848132453)
+- [When to See the &#39;Cold Moon&#39; in December](https://lifehacker.com/when-to-see-the-cold-moon-in-december-1848117266)
+- [Use These Clever Mental Tricks to Make Your Run Less Boring](https://lifehacker.com/use-these-clever-mental-tricks-to-make-your-run-less-bo-1847947762)
+- [12 Hidden Google Messages Features You Should Be Using](https://lifehacker.com/12-hidden-google-messages-features-you-should-be-using-1848128328)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
