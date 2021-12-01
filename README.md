@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [This Extension Lets You Finally Play YouTube in the Background on Mobile](https://lifehacker.com/this-extension-lets-you-finally-play-youtube-in-the-bac-1848143437)
-- [How to Get What You Actually Want for Christmas](https://lifehacker.com/how-to-get-what-you-actually-want-for-christmas-1848143852)
-- [How to &lpar;Finally&rpar; Actually Move on From a Relationship](https://lifehacker.com/how-to-finally-actually-move-on-from-a-relationship-1848143662)
-- [These Are the Worst Christmas Gifts Lifehacker Readers Have Ever Received](https://lifehacker.com/these-are-the-worst-christmas-gifts-lifehacker-readers-1848142392)
-- [8 Privacy Settings You Should Change on LinkedIn Right Now](https://lifehacker.com/8-privacy-settings-you-should-change-on-linkedin-right-1848142007)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I have a lot of questions. Number one, how dare you?</p>
-> <p>- Kelly Kapoor</p>
+> <p>Did I stutter?</p>
+> <p>- Stanley Hudson</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
