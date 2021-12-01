@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [7 Ways You Should Prepare Your Car and Home Before the Snow Starts](https://lifehacker.com/7-ways-you-should-prepare-your-car-and-home-before-the-1848044411)
-- [You Should Definitely Make Some Christmas Tree Syrup](https://lifehacker.com/you-should-definitely-make-some-christmas-tree-syrup-1848133356)
-- [When You Should Donate Anonymously &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-donate-anonymously-and-when-you-should-1848139001)
-- [This Is How You Choose the Perfect Christmas Tree](https://lifehacker.com/this-is-how-you-choose-the-perfect-christmas-tree-1848138846)
-- [Impress Your Guests With a Butter Board](https://lifehacker.com/impress-your-guests-with-a-butter-board-1848138546)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.</p>
-> <p>- Darryl Philbin</p>
+> <p>Did I stutter?</p>
+> <p>- Stanley Hudson</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
