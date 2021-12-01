@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [When to See the &#39;Cold Moon&#39; in December](https://lifehacker.com/when-to-see-the-cold-moon-in-december-1848117266)
-- [Use These Clever Mental Tricks to Make Your Run Less Boring](https://lifehacker.com/use-these-clever-mental-tricks-to-make-your-run-less-bo-1847947762)
-- [12 Hidden Google Messages Features You Should Be Using](https://lifehacker.com/12-hidden-google-messages-features-you-should-be-using-1848128328)
-- [When Paying for More iPad Pro Storage Might Actually Be Worth It](https://lifehacker.com/when-paying-for-more-ipad-pro-storage-might-actually-be-1848138107)
-- [7 Ways You Should Prepare Your Car and Home Before the Snow Starts](https://lifehacker.com/7-ways-you-should-prepare-your-car-and-home-before-the-1848044411)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Occasionally, I’ll hit somebody with my car. So sue me.</p>
-> <p>- Michael Scott</p>
+> <p>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</p>
+> <p>- Pam Beesly</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
