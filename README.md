@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [How to &lpar;Finally&rpar; Actually Move on From a Relationship](https://lifehacker.com/how-to-finally-actually-move-on-from-a-relationship-1848143662)
-- [These Are the Worst Christmas Gifts Lifehacker Readers Have Ever Received](https://lifehacker.com/these-are-the-worst-christmas-gifts-lifehacker-readers-1848142392)
-- [8 Privacy Settings You Should Change on LinkedIn Right Now](https://lifehacker.com/8-privacy-settings-you-should-change-on-linkedin-right-1848142007)
-- [15 Potent Gifts for the Weed Enthusiast in Your Life](https://lifehacker.com/15-potent-gifts-for-the-weed-enthusiast-in-your-life-1848132453)
-- [When to See the &#39;Cold Moon&#39; in December](https://lifehacker.com/when-to-see-the-cold-moon-in-december-1848117266)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.</p>
-> <p>- Toby Flenderson</p>
+> <p>I have a lot of questions. Number one, how dare you?</p>
+> <p>- Kelly Kapoor</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
