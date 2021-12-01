@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [When You Should Donate Anonymously &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-donate-anonymously-and-when-you-should-1848139001)
-- [This Is How You Choose the Perfect Christmas Tree](https://lifehacker.com/this-is-how-you-choose-the-perfect-christmas-tree-1848138846)
-- [Impress Your Guests With a Butter Board](https://lifehacker.com/impress-your-guests-with-a-butter-board-1848138546)
-- [21 Times Celebrity Voiceover Stunt Casting Paid Off](https://lifehacker.com/21-times-celebrity-voiceover-stunt-casting-paid-off-1848122527)
-- [How to Check Road Conditions When You Travel This Winter](https://lifehacker.com/how-to-check-road-conditions-when-you-travel-this-winte-1848138349)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I feel God in this Chili’s tonight.</p>
-> <p>- Pam Beesly</p>
+> <p>I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.</p>
+> <p>- Kelly Kapoor</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
