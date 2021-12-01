@@ -33,7 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [How Hackers Tricked 300,000 Android Users into Downloading Password-Stealing Malware](https://lifehacker.com/how-hackers-tricked-300-000-android-users-into-download-1848144780)
+- [You Deserve a Big Ol&#39; Pan of Baked Brie](https://lifehacker.com/you-deserve-a-big-ol-pan-of-baked-brie-1848140307)
+- [This Extension Lets You Finally Play YouTube in the Background on Mobile](https://lifehacker.com/this-extension-lets-you-finally-play-youtube-in-the-bac-1848143437)
+- [How to Get What You Actually Want for Christmas](https://lifehacker.com/how-to-get-what-you-actually-want-for-christmas-1848143852)
+- [How to &lpar;Finally&rpar; Actually Move on From a Relationship](https://lifehacker.com/how-to-finally-actually-move-on-from-a-relationship-1848143662)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
