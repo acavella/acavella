@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [When You Should Donate Anonymously &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-donate-anonymously-and-when-you-should-1848139001)
-- [This Is How You Choose the Perfect Christmas Tree](https://lifehacker.com/this-is-how-you-choose-the-perfect-christmas-tree-1848138846)
-- [Impress Your Guests With a Butter Board](https://lifehacker.com/impress-your-guests-with-a-butter-board-1848138546)
-- [21 Times Celebrity Voiceover Stunt Casting Paid Off](https://lifehacker.com/21-times-celebrity-voiceover-stunt-casting-paid-off-1848122527)
-- [How to Check Road Conditions When You Travel This Winter](https://lifehacker.com/how-to-check-road-conditions-when-you-travel-this-winte-1848138349)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?</p>
-> <p>- Creed Bratton</p>
+> <p>It has to be official, and it has to be urine.</p>
+> <p>- Dwight Schrute</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
