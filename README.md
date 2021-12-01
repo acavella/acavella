@@ -33,7 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [What&#39;s the Best Way to Tell Your Kids the Truth About Santa?](https://lifehacker.com/whats-the-best-way-to-tell-your-kids-the-truth-about-sa-1848144818)
+- [The Comet Leonard, the Christmas Star, and Other Things to See in December’s Night Sky](https://lifehacker.com/the-comet-leonard-the-christmas-star-and-other-things-1848145000)
+- [How Hackers Tricked 300,000 Android Users into Downloading Password-Stealing Malware](https://lifehacker.com/how-hackers-tricked-300-000-android-users-into-download-1848144780)
+- [You Deserve a Big Ol&#39; Pan of Baked Brie](https://lifehacker.com/you-deserve-a-big-ol-pan-of-baked-brie-1848140307)
+- [This Extension Lets You Finally Play YouTube in the Background on Mobile](https://lifehacker.com/this-extension-lets-you-finally-play-youtube-in-the-bac-1848143437)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
