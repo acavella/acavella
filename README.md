@@ -33,7 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Explore Your Bisexuality Without Being Overwhelmed](https://lifehacker.com/how-to-explore-your-bisexuality-without-being-overwhelm-1848003279)
+- [Get Rid of These Antiperspirants That Have Cancer-Causing Chemicals, FDA Says](https://lifehacker.com/get-rid-of-these-antiperspirants-that-have-cancer-causi-1848149010)
+- [Is It OK to Run in Cemeteries?](https://lifehacker.com/is-it-ok-to-run-in-cemeteries-1848069962)
+- [How to Repair Your Crumbling Sidewalk Curb](https://lifehacker.com/how-to-repair-your-crumbling-sidewalk-curb-1848148779)
+- [How to Keep Your Christmas Tree Alive Throughout the Holidays](https://lifehacker.com/how-to-keep-your-christmas-tree-alive-through-the-holid-1821047464)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
