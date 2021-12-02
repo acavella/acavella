@@ -33,11 +33,7 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [This Is the Most Rewarding Way to Motivate Yourself to Clean Your Home](https://lifehacker.com/this-is-the-most-rewarding-way-to-motivate-yourself-to-1848145391)
-- [Munch on These National Cookie Day Freebies and Deals](https://lifehacker.com/munch-on-these-national-cookie-day-freebies-and-deals-1848143016)
-- [What&#39;s the Best Way to Tell Your Kids the Truth About Santa?](https://lifehacker.com/whats-the-best-way-to-tell-your-kids-the-truth-about-sa-1848144818)
-- [The Comet Leonard, the Christmas Star, and Other Things to See in December’s Night Sky](https://lifehacker.com/the-comet-leonard-the-christmas-star-and-other-things-1848145000)
-- [How Hackers Tricked 300,000 Android Users into Downloading Password-Stealing Malware](https://lifehacker.com/how-hackers-tricked-300-000-android-users-into-download-1848144780)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
