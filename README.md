@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the Best Way to Tell Your Kids the Truth About Santa?](https://lifehacker.com/whats-the-best-way-to-tell-your-kids-the-truth-about-sa-1848144818)
-- [The Comet Leonard, the Christmas Star, and Other Things to See in December’s Night Sky](https://lifehacker.com/the-comet-leonard-the-christmas-star-and-other-things-1848145000)
-- [How Hackers Tricked 300,000 Android Users into Downloading Password-Stealing Malware](https://lifehacker.com/how-hackers-tricked-300-000-android-users-into-download-1848144780)
-- [You Deserve a Big Ol&#39; Pan of Baked Brie](https://lifehacker.com/you-deserve-a-big-ol-pan-of-baked-brie-1848140307)
-- [This Extension Lets You Finally Play YouTube in the Background on Mobile](https://lifehacker.com/this-extension-lets-you-finally-play-youtube-in-the-bac-1848143437)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.</p>
-> <p>- Jim Halpert</p>
+> <p>It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.</p>
+> <p>- Pam Beesly</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
