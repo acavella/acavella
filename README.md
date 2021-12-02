@@ -33,15 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Your Pixel 6&#39;s Connectivity Issues](https://lifehacker.com/how-to-fix-your-pixel-6s-connectivity-issues-1848149259)
-- [How to Explore Your Bisexuality Without Being Overwhelmed](https://lifehacker.com/how-to-explore-your-bisexuality-without-being-overwhelm-1848003279)
-- [Get Rid of These Antiperspirants That Have Cancer-Causing Chemicals, FDA Says](https://lifehacker.com/get-rid-of-these-antiperspirants-that-have-cancer-causi-1848149010)
-- [Is It OK to Run in Cemeteries?](https://lifehacker.com/is-it-ok-to-run-in-cemeteries-1848069962)
-- [How to Repair Your Crumbling Sidewalk Curb](https://lifehacker.com/how-to-repair-your-crumbling-sidewalk-curb-1848148779)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</p>
-> <p>- Michael Scott</p>
+> <p>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</p>
+> <p>- Phyllis Lapin</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
