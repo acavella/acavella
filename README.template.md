@@ -4,7 +4,7 @@ Hey there :wave:
 
 I'm Tony, a senior infrastructure and security engineer. I love everything that is tech and am on a mission to constantly learn new things.  I specialize in PKI/PKE, Linux, Mobility, virtualization, containers and automation. 
 
-Want to know more or reach out? 
+Want to know more, reach out! 
 
 ### ℹ️ Git Stats
 [![Repos Badge](https://badges.pufler.dev/repos/acavella)](https://badges.pufler.dev)
