@@ -33,15 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [Is It OK to Run in Cemeteries?](https://lifehacker.com/is-it-ok-to-run-in-cemeteries-1848069962)
-- [How to Repair Your Crumbling Sidewalk Curb](https://lifehacker.com/how-to-repair-your-crumbling-sidewalk-curb-1848148779)
-- [How to Keep Your Christmas Tree Alive Throughout the Holidays](https://lifehacker.com/how-to-keep-your-christmas-tree-alive-through-the-holid-1821047464)
-- [What Are the Best Gift Ideas for Someone Who Has Everything and Wants Nothing?](https://lifehacker.com/what-are-the-best-gift-ideas-for-someone-who-has-everyt-1848148684)
-- [12 of the Best Movies That Deal Frankly With Addiction and Recovery](https://lifehacker.com/12-movies-that-deal-frankly-with-addiction-and-recovery-1848130285)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.</p>
-> <p>- Ryan Howard</p>
+> <p>Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?</p>
+> <p>- Creed Bratton</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
