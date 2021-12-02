@@ -33,15 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [Never Burn These Items in a Fireplace](https://lifehacker.com/never-burn-these-items-in-a-fireplace-1848150689)
-- [How to Fight the Oncoming Destruction of Roe v. Wade and Abortion Rights](https://lifehacker.com/how-to-fight-the-oncoming-destruction-of-roe-v-wade-an-1848151068)
-- [You Should Air Fry Some Crackers](https://lifehacker.com/you-should-air-fry-some-crackers-1848151031)
-- [How to Fix Your Pixel 6&#39;s Connectivity Issues](https://lifehacker.com/how-to-fix-your-pixel-6s-connectivity-issues-1848149259)
-- [How to Explore Your Bisexuality Without Being Overwhelmed](https://lifehacker.com/how-to-explore-your-bisexuality-without-being-overwhelm-1848003279)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</p>
-> <p>- Phyllis Lapin</p>
+> <p>If you pray enough, you can change yourself into a cat person.</p>
+> <p>- Angela Martin</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
