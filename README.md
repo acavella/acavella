@@ -33,7 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Keep Your Christmas Tree Alive Throughout the Holidays](https://lifehacker.com/how-to-keep-your-christmas-tree-alive-through-the-holid-1821047464)
+- [What Are the Best Gift Ideas for Someone Who Has Everything and Wants Nothing?](https://lifehacker.com/what-are-the-best-gift-ideas-for-someone-who-has-everyt-1848148684)
+- [12 of the Best Movies That Deal Frankly With Addiction and Recovery](https://lifehacker.com/12-movies-that-deal-frankly-with-addiction-and-recovery-1848130285)
+- [The Best Way to Wrap Oddly Shaped Gifts, According to TikTok](https://lifehacker.com/the-best-way-to-wrap-oddly-shaped-gifts-according-to-t-1848144660)
+- [This Is the Most Rewarding Way to Motivate Yourself to Clean Your Home](https://lifehacker.com/this-is-the-most-rewarding-way-to-motivate-yourself-to-1848145391)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
