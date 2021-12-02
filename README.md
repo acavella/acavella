@@ -33,7 +33,11 @@ Want to know more or reach out?
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [12 of the Best Movies That Deal Frankly With Addiction and Recovery](https://lifehacker.com/12-movies-that-deal-frankly-with-addiction-and-recovery-1848130285)
+- [The Best Way to Wrap Oddly Shaped Gifts, According to TikTok](https://lifehacker.com/the-best-way-to-wrap-oddly-shaped-gifts-according-to-t-1848144660)
+- [This Is the Most Rewarding Way to Motivate Yourself to Clean Your Home](https://lifehacker.com/this-is-the-most-rewarding-way-to-motivate-yourself-to-1848145391)
+- [Munch on These National Cookie Day Freebies and Deals](https://lifehacker.com/munch-on-these-national-cookie-day-freebies-and-deals-1848143016)
+- [What&#39;s the Best Way to Tell Your Kids the Truth About Santa?](https://lifehacker.com/whats-the-best-way-to-tell-your-kids-the-truth-about-sa-1848144818)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
