@@ -33,7 +33,9 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Introducing Lanyon](https://tony.cavella.com/2020/04/03/introducing-lanyon/)
+- [Example content](https://tony.cavella.com/2020/04/02/example-content/)
+- [What&#39;s Jekyll?](https://tony.cavella.com/2020/04/01/whats-jekyll/)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
