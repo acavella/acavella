@@ -33,15 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-- [These Are the Best Streaming Service Sign-Up Deals You Can Get Right Now](https://lifehacker.com/these-are-the-best-streaming-service-sign-up-deals-you-1848154491)
-- [Please Don&#39;t Say These Things to Someone Who Doesn&#39;t Drink](https://lifehacker.com/please-dont-say-these-things-to-someone-who-doesnt-drin-1848059452)
-- [Plant These Veggies to Create a Winter Garden](https://lifehacker.com/plant-these-veggies-to-create-a-winter-garden-1848150672)
-- [Never Burn These Items in a Fireplace](https://lifehacker.com/never-burn-these-items-in-a-fireplace-1848150689)
-- [How to Fight the Oncoming Destruction of Roe v. Wade and Abortion Rights](https://lifehacker.com/how-to-fight-the-oncoming-destruction-of-roe-v-wade-an-1848151068)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.</p>
-> <p>- Stanley Hudson</p>
+> <p>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</p>
+> <p>- Pam Beesly</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
