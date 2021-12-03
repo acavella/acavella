@@ -33,7 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [Plant These Veggies to Create a Winter Garden](https://lifehacker.com/plant-these-veggies-to-create-a-winter-garden-1848150672)
+- [Never Burn These Items in a Fireplace](https://lifehacker.com/never-burn-these-items-in-a-fireplace-1848150689)
+- [How to Fight the Oncoming Destruction of Roe v. Wade and Abortion Rights](https://lifehacker.com/how-to-fight-the-oncoming-destruction-of-roe-v-wade-an-1848151068)
+- [You Should Air Fry Some Crackers](https://lifehacker.com/you-should-air-fry-some-crackers-1848151031)
+- [How to Fix Your Pixel 6&#39;s Connectivity Issues](https://lifehacker.com/how-to-fix-your-pixel-6s-connectivity-issues-1848149259)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
