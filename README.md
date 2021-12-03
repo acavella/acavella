@@ -33,7 +33,9 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Introducing Lanyon](https://acavella.github.io/2020/04/03/introducing-lanyon/)
+- [Example content](https://acavella.github.io/2020/04/02/example-content/)
+- [What&#39;s Jekyll?](https://acavella.github.io/2020/04/01/whats-jekyll/)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
