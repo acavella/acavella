@@ -33,7 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Get Your Solar Panels Ready for Winter](https://lifehacker.com/how-to-get-your-solar-panels-ready-for-winter-1848155353)
+- [Why You Should Master the Art of &#39;Lazy&#39; Exercise](https://lifehacker.com/why-you-should-master-the-art-of-lazy-exercise-1848069976)
+- [How to Install Picture Rail Now That It Is &lpar;Rightfully&rpar; Back in Style](https://lifehacker.com/how-to-install-picture-rail-now-that-it-is-rightfully-1848154539)
+- [The Out-of-Touch Adults’ Guide to Kid Culture: Did Ancient Rome Even Exist?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-anci-1848152209)
+- [These Are the Best Streaming Service Sign-Up Deals You Can Get Right Now](https://lifehacker.com/these-are-the-best-streaming-service-sign-up-deals-you-1848154491)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
