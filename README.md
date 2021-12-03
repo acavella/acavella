@@ -33,7 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Feeds (Lifehacker)
 <!-- BLOG-POST-LIST:START -->
-
+- [How to &lpar;Finally&rpar; Speed Up Pokémon GO’s Refresh Rate on Your Phone](https://lifehacker.com/how-to-finally-speed-up-pokemon-go-s-refresh-rate-on-1848155974)
+- [Everything You Need to Know About the Rise &lpar;and the Effectiveness&rpar; of Digital Therapeutics](https://lifehacker.com/everything-you-need-to-know-about-the-rise-and-the-eff-1848155470)
+- [How to Get Your Solar Panels Ready for Winter](https://lifehacker.com/how-to-get-your-solar-panels-ready-for-winter-1848155353)
+- [Why You Should Master the Art of &#39;Lazy&#39; Exercise](https://lifehacker.com/why-you-should-master-the-art-of-lazy-exercise-1848069976)
+- [How to Install Picture Rail Now That It Is &lpar;Rightfully&rpar; Back in Style](https://lifehacker.com/how-to-install-picture-rail-now-that-it-is-rightfully-1848154539)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
