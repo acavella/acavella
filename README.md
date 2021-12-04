@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</p>
-> <p>- Michael Scott</p>
+> <p>If you pray enough, you can change yourself into a cat person.</p>
+> <p>- Angela Martin</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
