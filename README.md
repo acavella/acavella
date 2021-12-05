@@ -33,15 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile/)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this/)
-- [Introducing Lanyon](https://cavella.com/2020/04/03/introducing-lanyon/)
-- [Example content](https://cavella.com/2020/04/02/example-content/)
-- [What&#39;s Jekyll?](https://cavella.com/2020/04/01/whats-jekyll/)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>If you pray enough, you can change yourself into a cat person.</p>
-> <p>- Angela Martin</p>
+> <p>It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.</p>
+> <p>- Jim Halpert</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
