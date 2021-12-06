@@ -33,15 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile/)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this/)
-- [Introducing Lanyon](https://cavella.com/2020/04/03/introducing-lanyon/)
-- [Example content](https://cavella.com/2020/04/02/example-content/)
-- [What&#39;s Jekyll?](https://cavella.com/2020/04/01/whats-jekyll/)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>If you pray enough, you can change yourself into a cat person.</p>
-> <p>- Angela Martin</p>
+> <p>I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?</p>
+> <p>- Dwight Schrute</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
