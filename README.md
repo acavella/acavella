@@ -33,15 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile/)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this/)
-- [Introducing Lanyon](https://cavella.com/2020/04/03/introducing-lanyon/)
-- [Example content](https://cavella.com/2020/04/02/example-content/)
-- [What&#39;s Jekyll?](https://cavella.com/2020/04/01/whats-jekyll/)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I have a lot of questions. Number one, how dare you?</p>
-> <p>- Kelly Kapoor</p>
+> <p>I feel God in this Chili’s tonight.</p>
+> <p>- Pam Beesly</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
