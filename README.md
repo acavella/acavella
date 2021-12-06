@@ -33,15 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile/)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this/)
-- [Introducing Lanyon](https://cavella.com/2020/04/03/introducing-lanyon/)
-- [Example content](https://cavella.com/2020/04/02/example-content/)
-- [What&#39;s Jekyll?](https://cavella.com/2020/04/01/whats-jekyll/)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</p>
-> <p>- Michael Scott</p>
+> <p>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</p>
+> <p>- Pam Beesly</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
