@@ -33,12 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile/)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this/)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Did I stutter?</p>
-> <p>- Stanley Hudson</p>
+> <p>I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.</p>
+> <p>- Jim Halpert</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
