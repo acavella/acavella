@@ -33,12 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile/)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this/)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</p>
-> <p>- Phyllis Lapin</p>
+> <p>Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.</p>
+> <p>- Dwight Schrute</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
