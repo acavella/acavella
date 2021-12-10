@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>If you pray enough, you can change yourself into a cat person.</p>
-> <p>- Angela Martin</p>
+> <p>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</p>
+> <p>- Phyllis Lapin</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
