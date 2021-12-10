@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?</p>
-> <p>- Creed Bratton</p>
+> <p>It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.</p>
+> <p>- Pam Beesly</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
