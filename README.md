@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</p>
-> <p>- Phyllis Lapin</p>
+> <p>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
