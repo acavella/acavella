@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</p>
-> <p>- Michael Scott</p>
+> <p>Did I stutter?</p>
+> <p>- Stanley Hudson</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
