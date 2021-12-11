@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</p>
-> <p>- Pam Beesly</p>
+> <p>Sorry I annoyed you with my friendship.</p>
+> <p>- Andy Bernard</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
