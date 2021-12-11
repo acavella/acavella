@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Sorry I annoyed you with my friendship.</p>
-> <p>- Andy Bernard</p>
+> <p>I am immensely proud of what I did for that turtle!</p>
+> <p>- Kevin Malone</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
