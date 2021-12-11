@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.</p>
-> <p>- Dwight Schrute</p>
+> <p>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
