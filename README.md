@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Shut up about the sun. SHUT UP ABOUT THE SUN!</p>
-> <p>- Gabe Lewis</p>
+> <p>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
