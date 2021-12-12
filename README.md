@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</p>
-> <p>- Phyllis Lapin</p>
+> <p>It has to be official, and it has to be urine.</p>
+> <p>- Dwight Schrute</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
