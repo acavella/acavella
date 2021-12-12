@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>It has to be official, and it has to be urine.</p>
-> <p>- Dwight Schrute</p>
+> <p>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</p>
+> <p>- Pam Beesly</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
