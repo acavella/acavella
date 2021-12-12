@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</p>
-> <p>- Pam Beesly</p>
+> <p>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</p>
+> <p>- Oscar Martinez</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
