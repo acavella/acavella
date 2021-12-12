@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Sorry I annoyed you with my friendship.</p>
-> <p>- Andy Bernard</p>
+> <p>It has to be official, and it has to be urine.</p>
+> <p>- Dwight Schrute</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
