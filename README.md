@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.</p>
-> <p>- Angela Martin</p>
+> <p>Shut up about the sun. SHUT UP ABOUT THE SUN!</p>
+> <p>- Gabe Lewis</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
