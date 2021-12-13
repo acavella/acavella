@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Bears, Beets, Battlestar Galactica.</p>
-> <p>- Jim Halpert</p>
+> <p>Well, Happy Birthday Jesus. Sorry your party’s so lame.</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
