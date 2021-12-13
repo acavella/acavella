@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>It has to be official, and it has to be urine.</p>
-> <p>- Dwight Schrute</p>
+> <p>It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.</p>
+> <p>- Pam Beesly</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
