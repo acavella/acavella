@@ -37,7 +37,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</p>
-> <p>- Andy Bernard</p>
+> <p>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
