@@ -33,13 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ansible Role Wireguard](https://cavella.com/2021/12/10/ansible-role-wireguard/)
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile/)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this/)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</p>
-> <p>- Andy Bernard</p>
+> <p>In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.</p>
+> <p>- Darryl Philbin</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
