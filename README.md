@@ -33,13 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ansible Role Wireguard](https://cavella.com/2021/12/10/ansible-role-wireguard/)
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile/)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this/)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I am immensely proud of what I did for that turtle!</p>
-> <p>- Kevin Malone</p>
+> <p>Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
