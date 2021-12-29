@@ -33,13 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ansible Role Wireguard](https://cavella.com/2021/12/10/ansible-role-wireguard/)
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile/)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this/)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</p>
+> <p>Well, Happy Birthday Jesus. Sorry your party’s so lame.</p>
 > <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
