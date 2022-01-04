@@ -15,6 +15,7 @@ Want to know more, reach out!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavella/)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&logoColor=white)](https://www.reddit.com/user/acavella)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/s0lution_)
+<a rel="me" href="https://fosstodon.org/@s0lution">Mastodon</a>
 
 ### 💻 Technology Stack
 ![Red Hat](https://img.shields.io/badge/OS-Red%20Hat-informational?style=flat&logo=redhat&logoColor=white&color=2bbc8a)
@@ -37,7 +38,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.</p>
-> <p>- Toby Flenderson</p>
+> <p>I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.</p>
+> <p>- Dwight Schrute</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
