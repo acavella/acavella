@@ -38,7 +38,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Everybody stay calm! Stay f*&#!#% calm!</p>
-> <p>- Michael Scott</p>
+> <p>Bears, Beets, Battlestar Galactica.</p>
+> <p>- Jim Halpert</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
