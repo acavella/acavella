@@ -38,7 +38,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</p>
-> <p>- Pam Beesly</p>
+> <p>Everybody stay calm! Stay f*&#!#% calm!</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
