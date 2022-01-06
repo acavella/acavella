@@ -34,13 +34,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ansible Role Wireguard](https://cavella.com/2021/12/10/ansible-role-wireguard.html)
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile.html)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this.html)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</p>
-> <p>- Oscar Martinez</p>
+> <p>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
