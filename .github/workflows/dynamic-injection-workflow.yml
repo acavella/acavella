@@ -1,4 +1,4 @@
-dname: Dynamic README injection
+name: Dynamic README injection
 on:
   schedule: # Run workflow automatically
     # This will make it run every hour
