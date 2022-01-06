@@ -1,4 +1,4 @@
-name: Dynamic README injection
+dname: Dynamic README injection
 on:
   schedule: # Run workflow automatically
     # This will make it run every hour
@@ -42,4 +42,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # Replace this URL with your rss feed URL/s
-          feed_list: "https://cavella.com/atom.xml"
+          feed_list: "https://cavella.com/feed.xml"
