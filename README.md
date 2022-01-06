@@ -34,13 +34,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ansible Role Wireguard](https://cavella.com/2021/12/10/ansible-role-wireguard.html)
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile.html)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this.html)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.</p>
-> <p>- Darryl Philbin</p>
+> <p>Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.</p>
+> <p>- Erin Hannon</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
