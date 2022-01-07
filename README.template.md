@@ -42,3 +42,4 @@ Want to know more, reach out!
 > <p>{office_character}</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
+<a rel="me" href="https://fosstodon.org/@s0lution">Mastodon</a>
