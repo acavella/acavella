@@ -16,7 +16,6 @@ Want to know more, reach out!
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&logoColor=white)](https://www.reddit.com/user/acavella)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/s0lution_)
 <a rel="me" href="https://fosstodon.org/@s0lution">![Mastodon](https://img.shields.io/badge/-Mastodon-1DA1F2?logo=Mastodon&logoColor=white)</a>
-[![Mastodon](https://img.shields.io/badge/-Mastodon-1DA1F2?logo=Mastodon&logoColor=white)](https://fosstodon.org/@s0lution)
 
 ### 💻 Technology Stack
 ![Red Hat](https://img.shields.io/badge/OS-Red%20Hat-informational?style=flat&logo=redhat&logoColor=white&color=2bbc8a)
@@ -43,4 +42,3 @@ Want to know more, reach out!
 > <p>{office_character}</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
-<a rel="me" href="https://fosstodon.org/@s0lution">Mastodon</a>
