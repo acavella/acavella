@@ -34,14 +34,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating WD MyCloud Backups to Backblaze B2](https://cavella.com/2022/01/06/automate-mycloud-backups-to-backblaze.html)
-- [Ansible Role Wireguard](https://cavella.com/2021/12/10/ansible-role-wireguard.html)
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile.html)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this.html)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I am immensely proud of what I did for that turtle!</p>
-> <p>- Kevin Malone</p>
+> <p>In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.</p>
+> <p>- Darryl Philbin</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
