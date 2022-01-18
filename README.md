@@ -34,15 +34,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [New Year, New Desktop](https://cavella.com/2022/01/11/new-year-new-desktop.html)
-- [Automating WD MyCloud Backups to Backblaze B2](https://cavella.com/2022/01/06/automate-mycloud-backups-to-backblaze.html)
-- [Ansible Role Wireguard](https://cavella.com/2021/12/10/ansible-role-wireguard.html)
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile.html)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this.html)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Bears, Beets, Battlestar Galactica.</p>
-> <p>- Jim Halpert</p>
+> <p>Occasionally, I’ll hit somebody with my car. So sue me.</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
