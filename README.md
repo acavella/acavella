@@ -34,15 +34,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [New Year, New Desktop](https://cavella.com/2022/01/11/new-year-new-desktop.html)
-- [Automating WD MyCloud Backups to Backblaze B2](https://cavella.com/2022/01/06/automate-mycloud-backups-to-backblaze.html)
-- [Ansible Role Wireguard](https://cavella.com/2021/12/10/ansible-role-wireguard.html)
-- [Custom Github Profile](https://cavella.com/2021/12/04/github-profile.html)
-- [What is this?](https://cavella.com/2021/12/03/what-is-this.html)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.</p>
-> <p>- Erin Hannon</p>
+> <p>I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?</p>
+> <p>- Dwight Schrute</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
