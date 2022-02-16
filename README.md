@@ -38,7 +38,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Did I stutter?</p>
-> <p>- Stanley Hudson</p>
+> <p>Occasionally, I’ll hit somebody with my car. So sue me.</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
