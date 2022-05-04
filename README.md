@@ -38,7 +38,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I have a lot of questions. Number one, how dare you?</p>
-> <p>- Kelly Kapoor</p>
+> <p>Shut up about the sun. SHUT UP ABOUT THE SUN!</p>
+> <p>- Gabe Lewis</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
