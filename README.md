@@ -38,7 +38,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Dwight, you ignorant slut!</p>
+> <p>Well, Happy Birthday Jesus. Sorry your party’s so lame.</p>
 > <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
