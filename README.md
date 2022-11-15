@@ -38,7 +38,7 @@ Want to know more, reach out!
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</p>
-> <p>- Oscar Martinez</p>
+> <p>If you pray enough, you can change yourself into a cat person.</p>
+> <p>- Angela Martin</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
