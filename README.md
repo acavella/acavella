@@ -16,6 +16,7 @@ Want to know more, reach out!
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&logoColor=white)](https://www.reddit.com/user/acavella)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/s0lution_)
 <a rel="me" href="https://fosstodon.org/@s0lution">![Mastodon](https://img.shields.io/badge/-Mastodon-1DA1F2?logo=Mastodon&logoColor=white)</a>
+<a rel="me" href="https://fosstodon.org/@s0lution">Mastodon</a>
 
 ### 💻 Technology Stack
 ![Red Hat](https://img.shields.io/badge/OS-Red%20Hat-informational?style=flat&logo=redhat&logoColor=white&color=2bbc8a)
@@ -34,15 +35,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Court Rules Against Embedded Fonts](https://cavella.com/2022/02/01/gdpr-stop-embedding-google-fonts.html)
-- [Hello World v2](https://cavella.com/2022/01/19/hello-world-v2.html)
-- [New Year, New Desktop](https://cavella.com/2022/01/11/new-year-new-desktop.html)
-- [Automating WD MyCloud Backups to Backblaze B2](https://cavella.com/2022/01/06/automate-mycloud-backups-to-backblaze.html)
-- [Ansible Role Wireguard](https://cavella.com/2021/12/10/ansible-role-wireguard.html)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.</p>
-> <p>- Dwight Schrute</p>
+> <p>I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.</p>
+> <p>- Andy Bernard</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
