@@ -35,15 +35,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is this, a new look?](https://cavella.com/site-development/2022/12/11/a-new-look.html)
-- [Court Rules Against Embedded Fonts](https://cavella.com/news/2022/02/01/gdpr-stop-embedding-google-fonts.html)
-- [Hello World v2](https://cavella.com/site-development/2022/01/19/hello-world-v2.html)
-- [New Year, New Desktop](https://cavella.com/linux/2022/01/11/new-year-new-desktop.html)
-- [Automating WD MyCloud Backups to Backblaze B2](https://cavella.com/homelab/2022/01/06/automate-mycloud-backups-to-backblaze.html)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.</p>
-> <p>- Kelly Kapoor</p>
+> <p>Well, Happy Birthday Jesus. Sorry your party’s so lame.</p>
+> <p>- Michael Scott</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
