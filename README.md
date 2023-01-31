@@ -35,15 +35,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Improving my Jekyll Workflow with Obsidian](https://cavella.com/development/2023/01/11/jekyll-workflow-with-obsidian.html)
-- [Welcome to 2023!](https://cavella.com/news/2023/01/02/welcome-to-2023.html)
-- [What is this, a new look?](https://cavella.com/site-development/2022/12/11/a-new-look.html)
-- [Court Rules Against Embedded Fonts](https://cavella.com/news/2022/02/01/gdpr-stop-embedding-google-fonts.html)
-- [Hello World v2](https://cavella.com/site-development/2022/01/19/hello-world-v2.html)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Bears, Beets, Battlestar Galactica.</p>
-> <p>- Jim Halpert</p>
+> <p>I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?</p>
+> <p>- Dwight Schrute</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
