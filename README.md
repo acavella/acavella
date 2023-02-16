@@ -35,15 +35,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [New Desktop for 2023](https://cavella.com/desktop/2023/02/07/desktop-2023.html)
-- [Improving my Jekyll Workflow with Obsidian](https://cavella.com/development/2023/01/11/jekyll-workflow-with-obsidian.html)
-- [Welcome to 2023!](https://cavella.com/news/2023/01/02/welcome-to-2023.html)
-- [What is this, a new look?](https://cavella.com/site-development/2022/12/11/a-new-look.html)
-- [Court Rules Against Embedded Fonts](https://cavella.com/news/2022/02/01/gdpr-stop-embedding-google-fonts.html)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.</p>
-> <p>- Darryl Philbin</p>
+> <p>I feel God in this Chili’s tonight.</p>
+> <p>- Pam Beesly</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
