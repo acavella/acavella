@@ -35,15 +35,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [New Desktop for 2023](https://cavella.com/desktop/2023/02/07/desktop-2023.html)
-- [Improving my Jekyll Workflow with Obsidian](https://cavella.com/development/2023/01/11/jekyll-workflow-with-obsidian.html)
-- [Welcome to 2023!](https://cavella.com/news/2023/01/02/welcome-to-2023.html)
-- [What is this, a new look?](https://cavella.com/site-development/2022/12/11/a-new-look.html)
-- [Court Rules Against Embedded Fonts](https://cavella.com/news/2022/02/01/gdpr-stop-embedding-google-fonts.html)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.</p>
-> <p>- Toby Flenderson</p>
+> <p>It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.</p>
+> <p>- Pam Beesly</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
