@@ -7,16 +7,14 @@ I'm Tony, a senior infrastructure and security engineer. I love everything that 
 Want to know more, reach out! 
 
 ### ℹ️ Git Stats
-[![Repos Badge](https://badges.pufler.dev/repos/acavella)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/acavella)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/acavella)](https://badges.pufler.dev)
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=acavella)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🗨️ Social
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavella/)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&logoColor=white)](https://www.reddit.com/user/acavella)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/s0lution_)
 <a rel="me" href="https://fosstodon.org/@s0lution">![Mastodon](https://img.shields.io/badge/-Mastodon-1DA1F2?logo=Mastodon&logoColor=white)</a>
-<a rel="me" href="https://fosstodon.org/@s0lution">Mastodon</a>
 
 ### 💻 Technology Stack
 ![Red Hat](https://img.shields.io/badge/OS-Red%20Hat-informational?style=flat&logo=redhat&logoColor=white&color=2bbc8a)
@@ -35,15 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [New Desktop for 2023](https://cavella.com/desktop/2023/02/07/desktop-2023.html)
-- [Improving my Jekyll Workflow with Obsidian](https://cavella.com/development/2023/01/11/jekyll-workflow-with-obsidian.html)
-- [Welcome to 2023!](https://cavella.com/news/2023/01/02/welcome-to-2023.html)
-- [What is this, a new look?](https://cavella.com/site-development/2022/12/11/a-new-look.html)
-- [Court Rules Against Embedded Fonts](https://cavella.com/news/2022/02/01/gdpr-stop-embedding-google-fonts.html)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>Occasionally, I’ll hit somebody with my car. So sue me.</p>
-> <p>- Michael Scott</p>
+> <p>It has to be official, and it has to be urine.</p>
+> <p>- Dwight Schrute</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
