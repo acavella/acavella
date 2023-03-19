@@ -7,9 +7,8 @@ I'm Tony, a senior infrastructure and security engineer. I love everything that 
 Want to know more, reach out! 
 
 ### ℹ️ Git Stats
-[![Repos Badge](https://badges.pufler.dev/repos/acavella)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/acavella)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/acavella)](https://badges.pufler.dev)
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=acavella)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🗨️ Social
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavella/)
