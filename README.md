@@ -33,15 +33,11 @@ Want to know more, reach out!
 
 ### 🗞️ Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [New Ansible Role, Chrony](https://cavella.com/development/2023/04/08/ansible-role-chrony.html)
-- [New Desktop for 2023](https://cavella.com/desktop/2023/02/07/desktop-2023.html)
-- [Improving my Jekyll Workflow with Obsidian](https://cavella.com/development/2023/01/11/jekyll-workflow-with-obsidian.html)
-- [Welcome to 2023!](https://cavella.com/news/2023/01/02/welcome-to-2023.html)
-- [What is this, a new look?](https://cavella.com/site-development/2022/12/11/a-new-look.html)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ### 📢 Random Office Quote (Hourly)
-> <p>It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.</p>
-> <p>- Pam Beesly</p>
+> <p>In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.</p>
+> <p>- Darryl Philbin</p>
 
 *Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
