@@ -2,15 +2,9 @@
 
 Hey there :wave:
 
-I'm Tony, a senior infrastructure and security engineer. I love everything that is tech and am on a mission to constantly learn new things.  I specialize in PKI/PKE, Linux, Mobility, virtualization, containers and automation. 
+I'm Tony, a senior infrastructure engineer focused on linux, devops/automation, and PKI. I am passionate about everything that is tech and am on a mission to constantly learn new things. I'm constantly experimenting and learning new things in my Raspberry Pi based homelab. I have a passion for creating and currently teaching myself Golang.  
 
-Want to know more, reach out! 
-
-### ℹ️ Git Stats
-[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=acavella)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### 🗨️ Social
+## 🗨️ Social Media
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavella/)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&logoColor=white)](https://www.reddit.com/user/acavella)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/s0lution_)
@@ -30,18 +24,3 @@ Want to know more, reach out!
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
 ![Raspberry PI](https://img.shields.io/badge/Stack-Raspberry%20PI-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
 ![DigitalOcean](https://img.shields.io/badge/Stack-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=2bbc8a)
-
-### 🗞️ Latest Posts
-<!-- BLOG-POST-LIST:START -->
-- [New Ansible Role, Chrony](https://cavella.com/development/2023/04/08/ansible-role-chrony.html)
-- [New Desktop for 2023](https://cavella.com/desktop/2023/02/07/desktop-2023.html)
-- [Improving my Jekyll Workflow with Obsidian](https://cavella.com/development/2023/01/11/jekyll-workflow-with-obsidian.html)
-- [Welcome to 2023!](https://cavella.com/news/2023/01/02/welcome-to-2023.html)
-- [What is this, a new look?](https://cavella.com/site-development/2022/12/11/a-new-look.html)
-<!-- BLOG-POST-LIST:END --> 
-
-### 📢 Random Office Quote (Hourly)
-> <p>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</p>
-> <p>- Michael Scott</p>
-
-*Credit: [Braydon Coyer](https://github.com/braydoncoyer/braydoncoyer)*
