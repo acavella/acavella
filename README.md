@@ -10,7 +10,7 @@ I'm Tony, a senior infrastructure engineer focused on linux, devops/automation, 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/s0lution_)
 <a rel="me" href="https://fosstodon.org/@s0lution">![Mastodon](https://img.shields.io/badge/-Mastodon-1DA1F2?logo=Mastodon&logoColor=white)</a>
 
-### 💻 Technology Stack
+## 💻 Technology Stack
 ![Red Hat](https://img.shields.io/badge/OS-Red%20Hat-informational?style=flat&logo=redhat&logoColor=white&color=2bbc8a)
 ![Debian](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=Debian&logoColor=white&color=2bbc8a)
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
