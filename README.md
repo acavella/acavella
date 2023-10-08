@@ -1,4 +1,4 @@
-![Header Image](./assets/header2.png)
+![Header Image](./assets/acavella_github-profile.png)
 
 I'm Tony, a senior infrastructure engineer focused on linux, devops/automation, and PKI. I am passionate about everything that is tech and am on a mission to constantly learn new things. I'm constantly experimenting and learning new things in my Raspberry Pi based homelab. I have a passion for creating and currently teaching myself Golang.  
 
