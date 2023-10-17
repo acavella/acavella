@@ -1,6 +1,6 @@
 ![Header Image](./assets/acavella_github-profile.png)
 
-I'm Tony, a senior infrastructure engineer focused on linux, devops/automation, and PKI. I am passionate about everything that is tech and am on a mission to constantly learn new things. I'm constantly experimenting and learning new things in my Raspberry Pi based homelab. I have a passion for creating and currently teaching myself Golang.  
+I'm Tony, a senior infrastructure engineer by day. I live and breath enterprise linux, am a devops/automation enthusiast, a lifelong PKI student and homelab hacker. I am passionate about everything that is technology/open-source and am on a mission to constantly learn new things. 
 
 ## 🗨️ Social Media
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavella/)
