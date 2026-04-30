@@ -21,7 +21,7 @@ GophFetch – A lightweight, high-performance system information and file retrie
 
 - **Security:** [Public PGP Key](https://keys.openpgp.org/vks/v1/by-fingerprint/D55208250F6C78D9BE5778E220C3B7A79E8466F0)
 
-   - _Fingerprint:_ `D552` `0825` `0F6C` `78D9` `BE57` `78E2` `20C3` `B7A7` `9E84` `66F0`
+   - _Fingerprint:_ `D552 0825 0F6C 78D9 BE57 78E2 20C3 B7A7 9E84 66F0`
 
 **🌲 Beyond the Terminal**
 
