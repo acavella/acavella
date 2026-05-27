@@ -11,9 +11,9 @@ I’m a Senior Infrastructure Engineer and US Army Veteran focused on building s
 - PKI (Public Key Infrastructure), Cryptography
 - Go (Golang), Shell Scripting
 
-**🚀 Featured Project**
+**🚀 Latest Project**
 
-GophFetch – A lightweight, high-performance system information and file retrieval utility written in Go.
+GopherFetch – A lightweight, high-performance system information and file retrieval utility written in Go.
 
 **🤝 Connect & Verify**
 
